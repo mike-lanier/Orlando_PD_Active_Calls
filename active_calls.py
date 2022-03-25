@@ -11,7 +11,6 @@ bsObj = BeautifulSoup(page, "xml")
 dates = bsObj.findAll("DATE")
 descriptions = bsObj.findAll("DESC")
 locations = bsObj.findAll("LOCATION")
-calls = bsObj.findAll({"DATE", "DESC", "LOCATION"})
 
 #creating empty lists to hold string values of the XML data
 allDates = []
