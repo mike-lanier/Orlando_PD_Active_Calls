@@ -19,4 +19,4 @@ Top 5 Call Descriptions:
 
 Time Stats:
 1.) 39% of calls take place between 6pm-9pm
-2.) 8pm-9pm hour sees the highest percentage of calls at 16.4%
+2.) 16.4% of all calls take place during the 8pm-9pm hour
