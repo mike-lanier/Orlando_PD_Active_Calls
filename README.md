@@ -1,14 +1,14 @@
-Web scraping and analyzing Orlando Police Department calls with Python. 
-Highlighting what types of incidents take place, along with the time range and locations with the highest number of reported incidents.
+Web scraping and analyzing Orlando Police Department calls with Python
 
 Quick Summary:
 
-## Top 5 Locations (Restricted Address Omitted):  
+## Top 5 Locations:  
 1.) Jeff Fuqua Blvd.  
 2.) W Colonial Dr.  
 3.) S Kirkman Rd.  
 4.) S Semoran Blvd.  
 5.) International Dr.  
+(Restricted Address Omitted)
 
 ## Top 5 Call Descriptions:  
 1.) Accident (10.1%)  
