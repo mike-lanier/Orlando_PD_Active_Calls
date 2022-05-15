@@ -33,7 +33,6 @@ extract(locations, allLocs)
 data = {'Date': allDates, 'Description': allDescs, 'Location': allLocs}
 df = pd.DataFrame(data)
 
-
 #export the dataframe to a csv file
 df.to_csv('pdcalls.csv')
 
