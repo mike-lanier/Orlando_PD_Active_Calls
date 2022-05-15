@@ -3,7 +3,7 @@ Highlighting what types of incidents take place, along with the time range and l
 
 Quick Summary:
 
-**Top 5 Locations (Restricted Address Omitted):**  
+##Top 5 Locations (Restricted Address Omitted):##  
 1.) Jeff Fuqua Blvd.  
 2.) W Colonial Dr.  
 3.) S Kirkman Rd.  
