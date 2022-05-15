@@ -3,11 +3,11 @@ Web scraping and analyzing Orlando Police Department calls with Python, Excel & 
 Quick Summary:
 
 ## Top 5 Locations:  
-1.) Jeff Fuqua Blvd.  
-2.) W Colonial Dr.  
-3.) S Kirkman Rd.  
-4.) S Semoran Blvd.  
-5.) International Dr.  
+1.) Jeff Fuqua Blvd. - 250  
+2.) W Colonial Dr. - 111  
+3.) S Kirkman Rd. - 110  
+4.) S Semoran Blvd. - 99  
+5.) International Dr. - 93  
 (Restricted Address Omitted)
 
 ## Top 5 Call Descriptions:  
@@ -20,4 +20,13 @@ Quick Summary:
 ## Time Stats:  
 1.) 39% of calls take place between 6pm-9pm  
 2.) 16.4% of all calls take place during the 8pm-9pm hour
+
+## Frequency of Calls by Day
+1.) Sunday - 505  
+2.) Thursday - 492  
+3.) Saturday - 491  
+4.) Tuesday - 384  
+5.) Wednesday - 383  
+6.) Friday - 327  
+7.) Monday - 307
 
