@@ -21,4 +21,3 @@ Time Stats:
 1.) 39% of calls take place between 6pm-9pm
 2.) 16.4% of all calls take place during the 8pm-9pm hour
 
-**These results were found after excluding non-descriptive values**
